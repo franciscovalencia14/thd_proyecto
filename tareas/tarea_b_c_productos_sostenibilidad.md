@@ -56,10 +56,11 @@ Empresa ficticia del sector informática especializada en desarrollo de software
 
 ## 📚 Fuentes consultadas
 
-- [IBM Watson](https://www.ibm.com/watson)  
+- [IBM Watson](https://www.ibm.com/products/watson-discovery/use-cases))  
 - [Siemens MindSphere](https://new.siemens.com/global/en/products/software/mindsphere.html)  
 - [AWS Big Data](https://aws.amazon.com/big-data/)  
 - [Google Cloud](https://cloud.google.com/)  
 - [IBM Blockchain](https://www.ibm.com/blockchain)  
 - [CrowdStrike](https://www.crowdstrike.com/)  
 - [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens)
+
