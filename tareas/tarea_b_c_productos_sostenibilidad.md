@@ -56,29 +56,18 @@ Empresa ficticia del sector informática especializada en desarrollo de software
 
 # 📚 Fuentes consultadas
 
-## 🤖 IA – IBM Watson
-- Caso “Use Cases / Client Stories” de IBM Watson Discovery: [IBM Watson Use Cases](https://www.ibm.com/products/watson-discovery/use-cases)
-- Estudios críticos sobre Watson en salud: [IBM Watson Healthcare Study](https://healthark.ai/wp-content/uploads/2023/11/IBM-Watson-From-healthcare-canary-to-a-failed-prodigy_1.pdf)
-- Transformación de servicio al cliente: [IBM Case Study](https://www.condado.com/case-studies/ibm)
-
-## 🌐 IoT – Siemens MindSphere
-- Ebook con casos de uso IoT / MindSphere: [Siemens MindSphere Use Cases](https://resources.sw.siemens.com/en-US/e-book-iiot-mindsphere-iiot-use-cases-iiot-examples/)
-- Documento de conectividad “Brownfield Facilities with MindSphere”: [Siemens MindSphere PDF](https://www.plm.automation.siemens.com/media/global/en/Brownfield%20Connectivity%20with%20MindSphere_tcm27-100928.pdf)
-
-## 📊 Big Data – AWS / Amazon Web Services
-- Página de casos de uso Big Data en AWS: [AWS Big Data Use Cases](https://aws.amazon.com/es/big-data/use-cases/)
-- Blog de AWS Big Data Case Study: [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/category/case-study/)
-
-## ⛓️ Blockchain – IBM Blockchain Platform
-- Caso “we.trade” plataforma de comercio: [IBM Blockchain we.trade](https://www.ibm.com/case-studies/wetrade-blockchain-fintech-trade-finance)
-- Caso “RCS Global” trazabilidad materias primas: [IBM Blockchain RCS Global](https://www.ibm.com/case-studies/rcs-global-blockchain)
-
-## 🛡️ Ciberseguridad – CrowdStrike
-- Historias de clientes CrowdStrike: [CrowdStrike Case Studies](https://www.crowdstrike.com/en-us/resources/case-studies/)
-- Caso PDF “Airline” de CrowdStrike: [CrowdStrike Airline Case Study](https://www.crowdstrike.com/wp-content/brochures/airline/Case_study_Airline.pdf)
-
-## 🕶️ RA/RV – Microsoft HoloLens
-- Casos de uso Mixed Reality: [Microsoft HoloLens Case Studies](https://learn.microsoft.com/en-us/windows/mixed-reality/discover/case-studies-overview)
-- Caso de estudio “Immersive training” – Avanade: [Avanade HoloLens Case Study](https://www.avanade.com/en/insights/clients/mv-transportation-microsoft-hololens-2)
+- [IBM Watson Use Cases](https://www.ibm.com/products/watson-discovery/use-cases)  
+- [IBM Watson Healthcare Study](https://healthark.ai/wp-content/uploads/2023/11/IBM-Watson-From-healthcare-canary-to-a-failed-prodigy_1.pdf)  
+- [IBM Case Study](https://www.condado.com/case-studies/ibm)  
+- [Siemens MindSphere Use Cases](https://resources.sw.siemens.com/en-US/e-book-iiot-mindsphere-iiot-use-cases-iiot-examples/)  
+- [Siemens MindSphere PDF](https://www.plm.automation.siemens.com/media/global/en/Brownfield%20Connectivity%20with%20MindSphere_tcm27-100928.pdf)  
+- [AWS Big Data Use Cases](https://aws.amazon.com/es/big-data/use-cases/)  
+- [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/category/case-study/)  
+- [IBM Blockchain we.trade](https://www.ibm.com/case-studies/wetrade-blockchain-fintech-trade-finance)  
+- [IBM Blockchain RCS Global](https://www.ibm.com/case-studies/rcs-global-blockchain)  
+- [CrowdStrike Case Studies](https://www.crowdstrike.com/en-us/resources/case-studies/)  
+- [CrowdStrike Airline Case Study](https://www.crowdstrike.com/wp-content/brochures/airline/Case_study_Airline.pdf)  
+- [Microsoft HoloLens Case Studies](https://learn.microsoft.com/en-us/windows/mixed-reality/discover/case-studies-overview)  
+- [Avanade HoloLens Case Study](https://www.avanade.com/en/insights/clients/mv-transportation-microsoft-hololens-2)
 
 
